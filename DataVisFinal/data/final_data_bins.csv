@@ -1,0 +1,793 @@
+name,state,type,in_state_total,out_of_state_total,early_career_pay,enrollment,enrollment_bin
+Adams State University,Colorado,Public,18222,29238,44400,1447.0,Small
+Agnes Scott College,Georgia,Private,53490,53490,46000,1031.0,Small
+Alabama A & M University,Alabama,Public,18077,26297,48700,5088.0,Medium
+Alabama State University,Alabama,Public,16490,24818,39800,3689.0,Small
+Alaska Pacific University,Alaska,Private,28130,28130,50300,247.0,Small
+Albany College of Pharmacy and Health Sciences,New York,Private,46025,46025,81000,808.0,Small
+Albertus Magnus College,Connecticut,Private,45260,45260,49700,828.0,Small
+Albion College,Michigan,Private,58155,58155,52100,1478.0,Small
+Alcorn State University,Mississippi,Public,16752,16752,40900,2869.0,Small
+Allen College,Iowa,Private,27252,27252,51600,425.0,Small
+Alma College,Michigan,Private,51256,51256,48400,1436.0,Small
+Amberton University,Texas,Private,12840,12840,52800,166.0,Small
+Amherst College,Massachusetts,Private,71166,71166,63800,1940.0,Small
+Amridge University,Alabama,Private,6900,6900,35700,240.0,Small
+Andrews University,Michigan,Private,38366,38366,47600,1381.0,Small
+Appalachian State University,North Carolina,Public,15518,30325,46600,17205.0,Large
+Arizona Christian University,Arizona,Private,37470,37470,42600,764.0,Small
+Arkansas Tech University,Arkansas,Public,16938,23718,45000,7068.0,Medium
+Asbury University,Kentucky,Private,37358,37358,39400,1434.0,Small
+Athens State University,Alabama,Public,6810,12870,45000,1459.0,Small
+Auburn University,Alabama,Public,24608,43856,54400,23189.0,Large
+Auburn University at Montgomery,Alabama,Public,17268,29028,45000,3758.0,Small
+Augsburg University,Minnesota,Private,49080,49080,50500,2209.0,Small
+Augusta University,Georgia,Public,20398,39436,47000,4809.0,Small
+Augustana University,South Dakota,Private,41266,41266,47900,1900.0,Small
+Austin Peay State University,Tennessee,Public,19111,35167,44200,7373.0,Medium
+Avila University,Missouri,Private,27100,27100,45900,1090.0,Small
+Babson College,Massachusetts,Private,67416,67416,72000,2811.0,Small
+Baker University,Kansas,Private,38240,38240,47800,1150.0,Small
+Ball State University,Indiana,Public,20130,36702,45600,15033.0,Large
+Barnard College,New York,Private,72257,72257,59200,2738.0,Small
+Barry University,Florida,Private,40950,40950,47400,3262.0,Small
+Barton College,North Carolina,Private,41000,41000,42400,1027.0,Small
+Bastyr University,Washington,Private,33756,33756,48400,90.0,Small
+Bates College,Maine,Private,69018,69018,59500,1958.0,Small
+Baylor University,Texas,Private,58322,58322,55500,14199.0,Medium
+Belhaven University,Mississippi,Private,33800,33800,41200,1319.0,Small
+Bellarmine University,Kentucky,Private,54450,54450,49000,2655.0,Small
+Bellevue College,Washington,Public,4258,9689,50100,8032.0,Medium
+Bellevue University,Nebraska,Private,18120,18120,49400,6730.0,Medium
+Bellin College,Wisconsin,Private,22178,22178,55800,305.0,Small
+Belmont Abbey College,North Carolina,Private,28855,28855,46700,1425.0,Small
+Belmont University,Tennessee,Private,46430,46430,47300,6736.0,Medium
+Beloit College,Wisconsin,Private,58870,58870,47400,1100.0,Small
+Benedict College,South Carolina,Private,22800,22800,38100,2114.0,Small
+Benedictine College,Kansas,Private,39830,39830,48700,1964.0,Small
+Bennington College,Vermont,Private,69970,69970,48800,716.0,Small
+Bentley University,Massachusetts,Private,66200,66200,66600,4315.0,Small
+Berea College,Kentucky,Private,46754,46754,39500,1665.0,Small
+Berry College,Georgia,Private,49326,49326,44900,1935.0,Small
+Birmingham-Southern College,Alabama,Private,30000,30000,49100,1222.0,Small
+Black Hills State University,South Dakota,Public,15711,18756,40400,2069.0,Small
+Bloomfield College,New Jersey,Private,41500,41500,48400,1589.0,Small
+Boise State University,Idaho,Public,18386,34468,50100,13617.0,Medium
+Boston College,Massachusetts,Private,69942,69942,63600,9879.0,Medium
+Boston University,Massachusetts,Private,69668,69668,61400,18309.0,Large
+Bowdoin College,Maine,Private,68620,68620,61300,1970.0,Small
+Bowie State University,Maryland,Public,19137,29777,50300,4628.0,Small
+Bowling Green State University-Main Campus,Ohio,Public,20273,28261,47200,13540.0,Medium
+Bradley University,Illinois,Private,44380,44380,55600,4577.0,Small
+Brandeis University,Massachusetts,Private,70835,70835,60600,3887.0,Small
+Brescia University,Kentucky,Private,31600,31600,44300,757.0,Small
+Brigham Young University-Hawaii,Hawaii,Private,12146,12146,51700,3269.0,Small
+Brigham Young University-Idaho,Idaho,Private,8710,8710,53700,26289.0,Large
+Brown University,Rhode Island,Private,70326,70326,68200,7060.0,Medium
+Bryant University,Rhode Island,Private,59675,59675,60500,3389.0,Small
+Bucknell University,Pennsylvania,Private,69754,69754,66700,3698.0,Small
+Butler University,Indiana,Private,54950,54950,51800,4561.0,Small
+California Institute of Technology,California,Private,67887,67887,84100,967.0,Small
+California Polytechnic State University-San Luis Obispo,California,Public,23612,35492,65600,20685.0,Large
+California State Polytechnic University-Pomona,California,Public,24711,36591,57700,24069.0,Large
+Cameron University,Oklahoma,Public,11902,21322,43900,2860.0,Small
+Campbell University,North Carolina,Private,43930,43930,46300,3517.0,Small
+Campbellsville University,Kentucky,Private,33400,33400,37600,2686.0,Small
+Capitol Technology University,Maryland,Private,31136,31136,67400,365.0,Small
+Cardinal Stritch University,Wisconsin,Private,38438,38438,47000,833.0,Small
+Carleton College,Minnesota,Private,68844,68844,58800,2114.0,Small
+Carnegie Mellon University,Pennsylvania,Private,69883,69883,75900,6501.0,Medium
+Carroll College,Montana,Private,45366,45366,48200,1160.0,Small
+Carroll University,Wisconsin,Private,41402,41402,45600,2725.0,Small
+Carson-Newman University,Tennessee,Private,36710,36710,42700,1776.0,Small
+Carthage College,Wisconsin,Private,55540,55540,48900,2623.0,Small
+Case Western Reserve University,Ohio,Private,64232,64232,66600,5308.0,Medium
+Castleton University,Vermont,Public,22912,38920,41700,1798.0,Small
+Catawba College,North Carolina,Private,41008,41008,42500,1230.0,Small
+Centenary College of Louisiana,Louisiana,Private,49980,49980,47000,557.0,Small
+Central Baptist College,Arkansas,Private,23700,23700,36900,588.0,Small
+Central Christian College of Kansas,Kansas,Private,34960,34960,37100,722.0,Small
+Central College,Iowa,Private,47575,47575,49000,1276.0,Small
+Central Connecticut State University,Connecticut,Public,22792,34032,53100,7647.0,Medium
+Central Michigan University,Michigan,Public,23036,23036,47700,13449.0,Medium
+Central Washington University,Washington,Public,19187,34168,52700,9636.0,Medium
+Centre College,Kentucky,Private,52180,52180,49500,1418.0,Small
+Chadron State College,Nebraska,Public,14576,14576,42300,1536.0,Small
+Chaminade University of Honolulu,Hawaii,Private,39004,39004,45400,1486.0,Small
+Champlain College,Vermont,Private,56364,56364,51100,2632.0,Small
+Charles R Drew University of Medicine and Science,California,Private,17440,17440,78300,181.0,Small
+Charleston Southern University,South Carolina,Private,35700,35700,42800,2586.0,Small
+Charter Oak State College,Connecticut,Public,10161,13101,49200,440.0,Small
+Christian Brothers University,Tennessee,Private,40220,40220,51500,1411.0,Small
+Christopher Newport University,Virginia,Public,26214,38680,50800,4856.0,Small
+Claremont McKenna College,California,Private,71110,71110,68500,1356.0,Small
+Clark Atlanta University,Georgia,Private,32960,32960,46300,3415.0,Small
+Clark College,Washington,Public,4287,9718,43500,5557.0,Medium
+Clark University,Massachusetts,Private,54900,54900,52600,2342.0,Small
+Clarke University,Iowa,Private,42950,42950,44900,681.0,Small
+Clarkson College,Nebraska,Private,22318,22318,50900,416.0,Small
+Clarkson University,New York,Private,64352,64352,66400,3057.0,Small
+Clayton State University,Georgia,Public,16404,29480,46400,4270.0,Small
+Cleary University,Michigan,Private,29850,29850,47400,439.0,Small
+Clemson University,South Carolina,Public,25802,47556,57500,20401.0,Large
+Cleveland State University,Ohio,Public,24185,28552,48300,9395.0,Medium
+Coastal Carolina University,South Carolina,Public,20726,35838,44700,9168.0,Medium
+Coe College,Iowa,Private,54480,54480,47200,1403.0,Small
+Colby College,Maine,Private,69400,69400,59200,2196.0,Small
+Colby-Sawyer College,New Hampshire,Private,56662,56662,46400,847.0,Small
+Colgate University,New York,Private,69865,69865,68400,3085.0,Small
+College for Creative Studies,Michigan,Private,52910,52910,51200,1241.0,Small
+College of Charleston,South Carolina,Public,24904,44086,47300,9189.0,Medium
+The College of Idaho,Idaho,Private,39852,39852,44700,1076.0,Small
+College of Saint Mary,Nebraska,Private,28050,28050,43900,754.0,Small
+College of Saint Benedict,Minnesota,Private,56168,56168,49100,1751.0,Small
+College of the Holy Cross,Massachusetts,Private,67290,67290,61800,3066.0,Small
+Colorado Christian University,Colorado,Private,43712,43712,46800,2311.0,Small
+Colorado College,Colorado,Private,67982,67982,53100,2205.0,Small
+Colorado Mesa University,Colorado,Public,20168,33365,47800,7409.0,Medium
+Colorado School of Mines,Colorado,Public,32133,51753,75600,5027.0,Medium
+Colorado State University-Fort Collins,Colorado,Public,23795,41696,53500,22937.0,Large
+Columbia International University,South Carolina,Private,31840,31840,36600,669.0,Small
+Columbia University in the City of New York,New York,Private,74001,74001,71400,7907.0,Medium
+Columbus State University,Georgia,Public,17080,30562,43300,4953.0,Small
+Concord University,West Virginia,Public,16884,26308,41700,1502.0,Small
+Concordia University-Saint Paul,Minnesota,Private,31275,31275,49200,2267.0,Small
+Concordia University-Wisconsin,Wisconsin,Private,40310,40310,46700,2280.0,Small
+Connecticut College,Connecticut,Private,69970,69970,57500,1842.0,Small
+Corban University,Oregon,Private,43268,43268,42500,1038.0,Small
+Cornell College,Iowa,Private,51683,51683,49600,1038.0,Small
+Cornell University,New York,Private,70004,70004,70100,15388.0,Large
+Cornish College of the Arts,Washington,Private,54042,54042,49000,594.0,Small
+Covenant College,Georgia,Private,44590,44590,44400,902.0,Small
+Creighton University,Nebraska,Private,50952,50952,53500,4477.0,Small
+Cumberland University,Tennessee,Private,32180,32180,45500,1897.0,Small
+Dakota State University,South Dakota,Public,16149,19122,48400,1611.0,Small
+Dakota Wesleyan University,South Dakota,Private,34650,34650,41800,649.0,Small
+Dartmouth College,New Hampshire,Private,71209,71209,71500,4821.0,Small
+Davidson College,North Carolina,Private,65819,65819,57300,2022.0,Small
+Delaware State University,Delaware,Public,20058,29094,46300,4008.0,Small
+Delta State University,Mississippi,Public,14968,14968,40800,2124.0,Small
+Denison University,Ohio,Private,64670,64670,54400,2379.0,Small
+DePaul University,Illinois,Private,54210,54210,55700,13320.0,Medium
+DePauw University,Indiana,Private,62724,62724,56600,1971.0,Small
+Dickinson College,Pennsylvania,Private,68359,68359,55800,2112.0,Small
+Dickinson State University,North Dakota,Public,13663,16442,46400,989.0,Small
+Dillard University,Louisiana,Private,28199,28199,44700,1209.0,Small
+Drake University,Iowa,Private,51924,51924,52800,2870.0,Small
+Drew University,New Jersey,Private,53608,53608,52800,1716.0,Small
+Drexel University,Pennsylvania,Private,67358,67358,61700,14667.0,Medium
+Drury University,Missouri,Private,36461,36461,42600,1483.0,Small
+Duke University,North Carolina,Private,70873,70873,71100,7215.0,Medium
+Earlham College,Indiana,Private,56850,56850,49100,973.0,Small
+East Carolina University,North Carolina,Public,16794,33071,48400,19837.0,Large
+East Central University,Oklahoma,Public,12324,23214,44700,2786.0,Small
+East Tennessee State University,Tennessee,Public,17749,36931,43700,9917.0,Medium
+Eastern Connecticut State University,Connecticut,Public,24916,36156,49200,4238.0,Small
+Eastern Kentucky University,Kentucky,Public,18314,28092,45600,10010.0,Medium
+Eastern Michigan University,Michigan,Public,23813,23813,47300,11121.0,Medium
+Eastern Oregon University,Oregon,Public,18719,30779,44000,1824.0,Small
+Eastern Washington University,Washington,Public,20116,37237,49500,10070.0,Medium
+Eckerd College,Florida,Private,57128,57128,49200,2021.0,Small
+Edgewood College,Wisconsin,Private,40520,40520,49500,1224.0,Small
+Elon University,North Carolina,Private,47549,47549,53600,6165.0,Medium
+Embry-Riddle Aeronautical University-Daytona Beach,Florida,Private,47252,47252,63300,6298.0,Medium
+Embry-Riddle Aeronautical University-Prescott,Arizona,Private,47048,47048,65600,2897.0,Small
+Embry-Riddle Aeronautical University-Worldwide,Florida,Private,9360,9360,55800,7394.0,Medium
+Emory University,Georgia,Private,65762,65762,62000,7330.0,Medium
+Emporia State University,Kansas,Public,15670,29587,43500,3273.0,Small
+Erskine College,South Carolina,Private,45460,45460,43500,813.0,Small
+Fairfield University,Connecticut,Private,63060,63060,62300,4270.0,Small
+Fairleigh Dickinson University-Florham Campus,New Jersey,Private,56010,56010,53700,2493.0,Small
+Fairleigh Dickinson University-Florham Campus,New Jersey,Private,56010,56010,53700,2493.0,Small
+Fairleigh Dickinson University-Metropolitan Campus,New Jersey,Private,53584,53584,50800,2212.0,Small
+Fairmont State University,West Virginia,Public,16518,25328,42900,3151.0,Small
+Faulkner University,Alabama,Private,29440,29440,39400,1619.0,Small
+Felician University,New Jersey,Private,47195,47195,53200,1821.0,Small
+Ferris State University,Michigan,Public,22524,22524,50000,8438.0,Medium
+Ferrum College,Virginia,Private,45675,45675,43000,1064.0,Small
+Fisk University,Tennessee,Private,32270,32270,45300,880.0,Small
+Florida Agricultural and Mechanical University,Florida,Public,16421,28362,48000,7299.0,Medium
+Florida Atlantic University,Florida,Public,17935,33491,49400,18454.0,Large
+Florida Institute of Technology,Florida,Private,54730,54730,58300,3337.0,Small
+Florida International University,Florida,Public,17440,29838,49600,31795.0,Large
+Florida State University,Florida,Public,17332,32499,50800,31479.0,Large
+Fordham University,New York,Private,70656,70656,58700,9434.0,Medium
+Fort Hays State University,Kansas,Public,13433,23501,45100,6151.0,Medium
+Fort Lewis College,Colorado,Public,18918,29574,48300,3042.0,Small
+Francis Marion University,South Carolina,Public,19108,29492,42900,3035.0,Small
+Franklin College,Indiana,Private,41956,41956,48900,886.0,Small
+Franklin Pierce University,New Hampshire,Private,50245,50245,47800,1671.0,Small
+Freed-Hardeman University,Tennessee,Private,30210,30210,43700,1338.0,Small
+Friends University,Kansas,Private,36387,36387,44700,932.0,Small
+Frostburg State University,Maryland,Public,19374,33094,49600,3770.0,Small
+Furman University,South Carolina,Private,62244,62244,52100,2647.0,Small
+George Fox University,Oregon,Private,47270,47270,51200,2479.0,Small
+George Mason University,Virginia,Public,23922,47382,58900,23432.0,Large
+Georgetown College,Kentucky,Private,48430,48430,45000,955.0,Small
+Georgia Institute of Technology-Main Campus,Georgia,Public,24308,44904,72700,15465.0,Large
+Georgia Southern University,Georgia,Public,17492,30974,49000,20409.0,Large
+Georgia State University,Georgia,Public,22236,40810,50600,23557.0,Large
+Gettysburg College,Pennsylvania,Private,67490,67490,58400,2630.0,Small
+Goddard College,Vermont,Private,18284,18284,42700,172.0,Small
+Goldey-Beacom College,Delaware,Private,30700,30700,49800,709.0,Small
+Gonzaga University,Washington,Private,55154,55154,57800,5254.0,Medium
+Goucher College,Maryland,Private,58806,58806,49400,1350.0,Small
+Grambling State University,Louisiana,Public,14627,23650,43100,3344.0,Small
+Grinnell College,Iowa,Private,65202,65202,53400,1715.0,Small
+Grove City College,Pennsylvania,Private,27700,27700,54400,2192.0,Small
+Gustavus Adolphus College,Minnesota,Private,55310,55310,51200,2587.0,Small
+Hamilton College,New York,Private,68490,68490,62600,2068.0,Small
+Hamline University,Minnesota,Private,51656,51656,48100,2054.0,Small
+Hampden-Sydney College,Virginia,Private,59304,59304,58300,996.0,Small
+Hampton University,Virginia,Private,38480,38480,52700,3595.0,Small
+Hanover College,Indiana,Private,49250,49250,47500,1077.0,Small
+Harding University,Arkansas,Private,27179,27179,49200,3605.0,Small
+Harvard University,Massachusetts,Private,67580,67580,74800,7398.0,Medium
+Harvey Mudd College,California,Private,75003,75003,88800,898.0,Small
+Hastings College,Nebraska,Private,39750,39750,48600,984.0,Small
+Haverford College,Pennsylvania,Private,70994,70994,59300,1385.0,Small
+Hawaii Pacific University,Hawaii,Private,40780,40780,52200,2483.0,Small
+Henderson State University,Arkansas,Public,15940,17590,42900,2866.0,Small
+Hendrix College,Arkansas,Private,58074,58074,48100,1112.0,Small
+Heritage University,Washington,Private,18124,18124,41100,699.0,Small
+High Point University,North Carolina,Private,49248,49248,48600,4619.0,Small
+Hobart William Smith Colleges,New York,Private,70040,70040,56500,2079.0,Small
+Hofstra University,New York,Private,62708,62708,57300,6362.0,Medium
+Holy Cross College,Indiana,Private,42320,42320,48100,429.0,Small
+Hood College,Maryland,Private,52192,52192,47900,1079.0,Small
+Hope College,Michigan,Private,44320,44320,49200,3013.0,Small
+Huntingdon College,Alabama,Private,37150,37150,42400,834.0,Small
+Husson University,Maine,Private,28010,28010,43300,2480.0,Small
+Idaho State University,Idaho,Public,14627,30147,50800,6661.0,Medium
+Illinois Institute of Technology,Illinois,Private,60058,60058,64600,2981.0,Small
+Illinois State University,Illinois,Public,24366,35890,51200,18191.0,Large
+Illinois Wesleyan University,Illinois,Private,58620,58620,53100,1632.0,Small
+Indiana Institute of Technology,Indiana,Private,36920,36920,50000,1468.0,Small
+Indiana State University,Indiana,Public,19680,30426,47900,8497.0,Medium
+Indiana University-Bloomington,Indiana,Public,21146,45921,53600,32570.0,Large
+Indiana University-Purdue University-Fort Wayne,Indiana,Public,14446,26284,47300,5759.0,Medium
+Indiana University-Purdue University-Indianapolis,Indiana,Public,18389,38745,50500,18748.0,Large
+Iowa State University,Iowa,Public,17708,32112,56100,27335.0,Large
+Jackson State University,Mississippi,Public,17778,29006,41700,4408.0,Small
+Jacksonville State University,Alabama,Public,18525,28245,43800,6535.0,Medium
+Jacksonville University,Florida,Private,50750,50750,50100,2678.0,Small
+James Madison University,Virginia,Public,22108,38508,57400,19212.0,Large
+John Brown University,Arkansas,Private,36152,36152,47000,1457.0,Small
+John Carroll University,Ohio,Private,53214,53214,51600,2953.0,Small
+Johns Hopkins University,Maryland,Private,70076,70076,67200,5945.0,Medium
+Kalamazoo College,Michigan,Private,58272,58272,51600,1507.0,Small
+Kansas City Art Institute,Missouri,Private,48800,48800,42500,710.0,Small
+Kansas State University,Kansas,Public,19943,35447,52500,16001.0,Large
+Kansas Wesleyan University,Kansas,Private,39000,39000,44700,677.0,Small
+Kean University,New Jersey,Public,26818,33853,48200,10511.0,Medium
+Keene State College,New Hampshire,Public,25238,34202,48900,3443.0,Small
+Kennesaw State University,Georgia,Public,18899,32625,52500,27561.0,Large
+Kentucky Christian University,Kentucky,Private,28090,28090,39600,519.0,Small
+Kentucky State University,Kentucky,Public,14780,26080,40700,1319.0,Small
+Kentucky Wesleyan College,Kentucky,Private,36204,36204,42100,822.0,Small
+Kenyon College,Ohio,Private,68440,68440,55000,1816.0,Small
+Kettering College,Ohio,Private,20300,20300,54300,526.0,Small
+Kettering University,Michigan,Private,51730,51730,69900,1864.0,Small
+Knox College,Illinois,Private,56424,56424,50600,1247.0,Small
+La Salle University,Pennsylvania,Private,45640,45640,55800,3250.0,Small
+Lafayette College,Pennsylvania,Private,68520,68520,66500,2657.0,Small
+Lake Forest College,Illinois,Private,57454,57454,55400,1666.0,Small
+Lake Superior State University,Michigan,Public,21972,21972,45900,1602.0,Small
+Lakeview College of Nursing,Illinois,Private,16320,16320,55000,150.0,Small
+Lamar University,Texas,Public,19112,31562,53300,5526.0,Medium
+Lander University,South Carolina,Public,20800,30400,42600,3063.0,Small
+Langston University,Oklahoma,Public,15426,22776,46500,1992.0,Small
+Lawrence Technological University,Michigan,Private,43520,43520,57900,1711.0,Small
+Lawrence University,Wisconsin,Private,57816,57816,51500,1402.0,Small
+Lehigh University,Pennsylvania,Private,66530,66530,69500,5122.0,Medium
+Lenoir-Rhyne University,North Carolina,Private,48910,48910,46400,1626.0,Small
+LeTourneau University,Texas,Private,40180,40180,56600,1461.0,Small
+Lewis & Clark College,Oregon,Private,63424,63424,50000,1934.0,Small
+Lewis University,Illinois,Private,43028,43028,49700,3806.0,Small
+Lewis-Clark State College,Idaho,Public,14198,26816,44900,2347.0,Small
+Lindenwood University,Missouri,Private,26600,26600,45100,5212.0,Medium
+Lindsey Wilson College,Kentucky,Private,34235,34235,35300,1795.0,Small
+Lipscomb University,Tennessee,Private,44796,44796,49000,2824.0,Small
+Longwood University,Virginia,Public,25086,41046,47300,3582.0,Small
+Loras College,Iowa,Private,42459,42459,48000,1296.0,Small
+Louisiana State University Health Sciences Center-New Orleans,Louisiana,Public,12573,19355,52300,987.0,Small
+Louisiana State University-Shreveport,Louisiana,Public,7235,20389,44500,1899.0,Small
+Louisiana Tech University,Louisiana,Public,16140,25053,53100,8514.0,Medium
+Loyola Marymount University,California,Private,63012,63012,58500,6776.0,Medium
+Loyola University Chicago,Illinois,Private,58528,58528,53400,12122.0,Medium
+Loyola University Maryland,Maryland,Private,63515,63515,59900,3972.0,Small
+Loyola University New Orleans,Louisiana,Private,53072,53072,47900,2986.0,Small
+Luther College,Iowa,Private,51750,51750,48200,1953.0,Small
+Lynn University,Florida,Private,50380,50380,46100,2333.0,Small
+Lyon College,Arkansas,Private,37920,37920,41200,673.0,Small
+Macalester College,Minnesota,Private,66500,66500,53600,2092.0,Small
+Maine Maritime Academy,Maine,Public,23788,37408,67000,982.0,Small
+Manchester University,Indiana,Private,42338,42338,46900,1084.0,Small
+Manhattan Christian College,Kansas,Private,24942,24942,39400,163.0,Small
+Manhattan College,New York,Private,59680,59680,64000,3451.0,Small
+Marietta College,Ohio,Private,47360,47360,51200,1125.0,Small
+Marquette University,Wisconsin,Private,54590,54590,57800,8303.0,Medium
+Marshall University,West Virginia,Public,18578,29064,45000,7488.0,Medium
+Maryland Institute College of Art,Maryland,Private,61910,61910,49000,1717.0,Small
+Marymount University,Virginia,Private,44656,44656,52300,2086.0,Small
+Maryville College,Tennessee,Private,46304,46304,42800,1108.0,Small
+Maryville University of Saint Louis,Missouri,Private,38558,38558,46800,3165.0,Small
+Massachusetts Institute of Technology,Massachusetts,Private,67342,67342,86300,4581.0,Small
+Massachusetts Maritime Academy,Massachusetts,Public,22399,38777,67900,1638.0,Small
+Mayville State University,North Dakota,Public,14506,17239,43700,633.0,Small
+McDaniel College,Maryland,Private,54690,54690,51100,1723.0,Small
+McNeese State University,Louisiana,Public,16563,27638,50200,5725.0,Medium
+McPherson College,Kansas,Private,37739,37739,44500,787.0,Small
+MCPHS University,Massachusetts,Private,49105,49105,65900,3999.0,Small
+Medical University of South Carolina,South Carolina,Public,26826,26826,54800,405.0,Small
+Menlo College,California,Private,57025,57025,61900,910.0,Small
+Mercer University,Georgia,Private,48510,48510,48500,4430.0,Small
+Merrimack College,Massachusetts,Private,57605,57605,56000,3864.0,Small
+Methodist College,Illinois,Private,28240,28240,51400,369.0,Small
+Methodist University,North Carolina,Private,46736,46736,45800,1591.0,Small
+Metropolitan State University,Minnesota,Public,7879,14980,50200,3512.0,Small
+Metropolitan State University of Denver,Colorado,Public,7665,20847,49400,13668.0,Medium
+Miami University-Oxford,Ohio,Public,29238,48755,57200,16950.0,Large
+Michigan State University,Michigan,Public,24782,50087,55300,36974.0,Large
+Michigan Technological University,Michigan,Public,26402,44482,65000,5505.0,Medium
+Mid-America Christian University,Oklahoma,Private,26370,26370,40700,1663.0,Small
+MidAmerica Nazarene University,Kansas,Private,39444,39444,46200,1000.0,Small
+Middle Georgia State University,Georgia,Public,13688,22648,44000,5507.0,Medium
+Middle Tennessee State University,Tennessee,Public,18642,37800,46500,16674.0,Large
+Middlebury College,Vermont,Private,69980,69980,60400,3819.0,Small
+Midland University,Nebraska,Private,41334,41334,43800,1158.0,Small
+Midway University,Kentucky,Private,33130,33130,39200,963.0,Small
+Miles College,Alabama,Private,18646,18646,34800,1584.0,Small
+Millsaps College,Mississippi,Private,53640,53640,49300,770.0,Small
+Milwaukee School of Engineering,Wisconsin,Private,51138,51138,65700,2542.0,Small
+Minneapolis College of Art and Design,Minnesota,Private,44820,44820,47400,729.0,Small
+Minnesota State University-Mankato,Minnesota,Public,16903,24954,51600,11008.0,Medium
+Minot State University,North Dakota,Public,13674,13674,44500,2037.0,Small
+Mississippi College,Mississippi,Private,28326,28326,45200,2579.0,Small
+Mississippi State University,Mississippi,Public,18850,33450,51100,18048.0,Large
+Mississippi University for Women,Mississippi,Public,14464,14464,39500,2414.0,Small
+Mississippi Valley State University,Mississippi,Public,14613,14613,32500,1527.0,Small
+Missouri State University-Springfield,Missouri,Public,16207,24097,45900,14474.0,Medium
+Missouri University of Science and Technology,Missouri,Public,20443,38773,67300,5790.0,Medium
+Missouri Western State University,Missouri,Public,6466,14137,43400,3354.0,Small
+Monmouth University,New Jersey,Private,52119,52119,52200,4444.0,Small
+Montana State University,Montana,Public,17521,34949,53700,12867.0,Medium
+Montana State University-Northern,Montana,Public,12476,25076,43400,857.0,Small
+Montclair State University,New Jersey,Public,28354,36142,50800,15581.0,Large
+Morehead State University,Kentucky,Public,19130,23606,41300,5580.0,Medium
+Morehouse College,Georgia,Private,41012,41012,55700,2214.0,Small
+Mount Carmel College of Nursing,Ohio,Private,18907,18907,56600,661.0,Small
+Mount Mercy University,Iowa,Private,41332,41332,47200,1163.0,Small
+Mount St. Mary's University,Maryland,Private,54425,54425,50200,1844.0,Small
+Muhlenberg College,Pennsylvania,Private,64360,64360,53400,2247.0,Small
+Multnomah University,Oregon,Private,34770,34770,40500,327.0,Small
+Murray State University,Kentucky,Public,18274,33730,44800,6340.0,Medium
+Nazarene Bible College,Colorado,Private,14700,14700,33600,27.0,Small
+Nebraska Wesleyan University,Nebraska,Private,43824,43824,45700,1760.0,Small
+New College of Florida,Florida,Public,16183,39208,47300,722.0,Small
+New England College,New Hampshire,Private,52136,52136,45700,2456.0,Small
+New England Institute of Technology,Rhode Island,Private,43005,43005,51700,2554.0,Small
+New Jersey City University,New Jersey,Public,24789,34311,48700,5396.0,Medium
+New Jersey Institute of Technology,New Jersey,Public,30938,46350,64600,7352.0,Medium
+New Mexico Highlands University,New Mexico,Public,14022,18174,40400,1258.0,Small
+New Mexico Institute of Mining and Technology,New Mexico,Public,16280,30778,64700,1205.0,Small
+New Mexico State University-Main Campus,New Mexico,Public,16620,32760,50400,10239.0,Medium
+New Orleans Baptist Theological Seminary,Louisiana,Private,10400,10400,33900,66.0,Small
+New York University,New York,Private,69984,69984,63100,27302.0,Large
+Newberry College,South Carolina,Private,37090,37090,41200,1272.0,Small
+Newman University,Kansas,Private,39050,39050,48000,1048.0,Small
+Nicholls State University,Louisiana,Public,17920,19013,44500,5424.0,Medium
+North Carolina State University at Raleigh,North Carolina,Public,20179,39522,57300,23561.0,Large
+North Central College,Illinois,Private,49899,49899,50400,2649.0,Small
+North Dakota State University-Main Campus,North Dakota,Public,17859,21838,54200,9960.0,Medium
+Northeastern State University,Oklahoma,Public,14288,22358,44500,4866.0,Small
+Northeastern University,Massachusetts,Private,68267,68267,62500,19038.0,Large
+Northern Arizona University,Arizona,Public,21846,36110,49600,23572.0,Large
+Northern Illinois University,Illinois,Public,23142,23142,53000,11256.0,Medium
+Northern Kentucky University,Kentucky,Public,20054,29702,49000,8593.0,Medium
+Northern State University,South Dakota,Public,16527,19500,42300,1354.0,Small
+Northwest Missouri State University,Missouri,Public,19821,26473,46900,5262.0,Medium
+Northwest Nazarene University,Idaho,Private,36700,36700,46200,1116.0,Small
+Northwest University,Washington,Private,40170,40170,50900,986.0,Small
+Northwestern College,Iowa,Private,40300,40300,44800,1007.0,Small
+Northwestern Oklahoma State University,Oklahoma,Public,11816,18933,42200,1440.0,Small
+Northwestern University,Illinois,Private,71193,71193,63400,8577.0,Medium
+Norwich University,Vermont,Private,53856,53856,57000,2714.0,Small
+Notre Dame of Maryland University,Maryland,Private,48750,48750,48300,517.0,Small
+Nova Southeastern University,Florida,Private,44150,44150,50200,4777.0,Small
+Oakland University,Michigan,Public,22706,34330,51300,12233.0,Medium
+Oakwood University,Alabama,Private,26032,26032,43500,1458.0,Small
+Oberlin College,Ohio,Private,71392,71392,53100,2918.0,Small
+Oglethorpe University,Georgia,Private,51300,51300,52400,1374.0,Small
+Ohio Northern University,Ohio,Private,43910,43910,54400,2127.0,Small
+Ohio State University-Main Campus,Ohio,Public,23160,43176,55300,43941.0,Large
+Ohio University-Main Campus,Ohio,Public,24022,33486,51400,16881.0,Large
+Ohio Wesleyan University,Ohio,Private,58190,58190,51300,1613.0,Small
+Oklahoma Baptist University,Oklahoma,Private,35608,35608,43900,1716.0,Small
+Oklahoma Christian University,Oklahoma,Private,30950,30950,49700,1716.0,Small
+Oklahoma City University,Oklahoma,Private,39922,39922,47700,1607.0,Small
+Oklahoma Panhandle State University,Oklahoma,Public,12889,13828,42300,1054.0,Small
+Oklahoma State University-Main Campus,Oklahoma,Public,17568,33088,52800,18145.0,Large
+Oklahoma Wesleyan University,Oklahoma,Private,35600,35600,43300,505.0,Small
+Old Dominion University,Virginia,Public,22492,41392,50200,15696.0,Large
+Oral Roberts University,Oklahoma,Private,37178,37178,45900,2798.0,Small
+Oregon Health & Science University,Oregon,Public,19176,33666,65400,434.0,Small
+Oregon Institute of Technology,Oregon,Public,19045,37114,61200,2487.0,Small
+Oregon State University,Oregon,Public,24021,42996,56200,19521.0,Large
+Ouachita Baptist University,Arkansas,Private,34670,34670,44100,1533.0,Small
+Pacific Lutheran University,Washington,Private,52856,52856,54500,2719.0,Small
+Pacific Northwest College of Art,Oregon,Private,51110,51110,46300,523.0,Small
+Pacific University,Oregon,Private,56826,56826,50200,1764.0,Small
+Park University,Missouri,Private,20850,20850,48500,4763.0,Small
+Peru State College,Nebraska,Public,15462,15492,42600,1216.0,Small
+Pfeiffer University,North Carolina,Private,41460,41460,44200,865.0,Small
+Pittsburg State University,Kansas,Public,15076,26420,47100,4978.0,Small
+Plymouth State University,New Hampshire,Public,25199,33869,47000,3751.0,Small
+Pomona College,California,Private,69496,69496,63800,1711.0,Small
+Portland State University,Oregon,Public,19533,37488,50800,15441.0,Large
+Presbyterian College,South Carolina,Private,49140,49140,48800,1062.0,Small
+Prescott College,Arizona,Private,39185,39185,41200,443.0,Small
+Princeton University,New Jersey,Private,65620,65620,75200,5408.0,Medium
+Principia College,Illinois,Private,41080,41080,52600,399.0,Small
+Providence College,Rhode Island,Private,65090,65090,58900,4175.0,Small
+Purdue University-Main Campus,Indiana,Public,20022,38824,60900,33097.0,Large
+Queens University of Charlotte,North Carolina,Private,45544,45544,49400,1686.0,Small
+Quinnipiac University,Connecticut,Private,62500,62500,55900,6681.0,Medium
+Radford University,Virginia,Public,20616,32251,48900,7792.0,Medium
+Ramapo College of New Jersey,New Jersey,Public,26824,36165,51600,5113.0,Medium
+Randolph College,Virginia,Private,53165,53165,47000,558.0,Small
+Reed College,Oregon,Private,70550,70550,56100,1506.0,Small
+Regis University,Colorado,Private,48370,48370,55500,2366.0,Small
+Rensselaer Polytechnic Institute,New York,Private,69140,69140,71300,6856.0,Medium
+Rhode Island College,Rhode Island,Public,20758,33521,47200,5285.0,Medium
+Rhode Island School of Design,Rhode Island,Private,64360,64360,55500,2041.0,Small
+Rhodes College,Tennessee,Private,59293,59293,51900,1956.0,Small
+Rice University,Texas,Private,61350,61350,71000,4019.0,Small
+Rider University,New Jersey,Private,56010,56010,51600,3643.0,Small
+Ripon College,Wisconsin,Private,52208,52208,46300,808.0,Small
+Rivier University,New Hampshire,Private,44316,44316,49500,975.0,Small
+Roanoke College,Virginia,Private,57720,57720,48500,2001.0,Small
+Rockhurst University,Missouri,Private,47790,47790,54000,1831.0,Small
+Rocky Mountain College,Montana,Private,36842,36842,46000,859.0,Small
+Roger Williams University,Rhode Island,Private,50412,50412,52900,4159.0,Small
+Rogers State University,Oklahoma,Public,15486,23826,41400,2570.0,Small
+Rollins College,Florida,Private,64495,64495,49000,2580.0,Small
+Rose-Hulman Institute of Technology,Indiana,Private,64637,64637,75000,1991.0,Small
+Rowan University,New Jersey,Public,26249,34891,51100,14963.0,Medium
+Rush University,Illinois,Private,24900,24900,63500,68.0,Small
+Rust College,Mississippi,Private,14200,14200,34800,653.0,Small
+Rutgers University-New Brunswick,New Jersey,Public,27680,43988,59800,36370.0,Large
+Rutgers University-Camden,New Jersey,Public,27171,42949,51100,5148.0,Medium
+Rutgers University-Newark,New Jersey,Public,27945,44253,57900,8631.0,Medium
+Sacred Heart University,Connecticut,Private,56730,56730,55000,5386.0,Medium
+Saginaw Valley State University,Michigan,Public,20494,34401,46400,6656.0,Medium
+Saint Anselm College,New Hampshire,Private,55700,55700,56400,2032.0,Small
+Saint Cloud State University,Minnesota,Public,17812,26046,51600,7449.0,Medium
+Saint Joseph's College of Maine,Maine,Private,49330,49330,46900,1078.0,Small
+Saint Joseph's University,Pennsylvania,Private,59813,59813,57300,4286.0,Small
+Saint Louis University,Missouri,Private,56174,56174,54200,7059.0,Medium
+Saint Martin's University,Washington,Private,48801,48801,53200,1434.0,Small
+Saint Mary's College,Indiana,Private,54800,54800,49700,1453.0,Small
+Saint Mary's College of California,California,Private,62650,62650,59900,2594.0,Small
+Saint Michael's College,Vermont,Private,57595,57595,52900,1586.0,Small
+Saint Peter's University,New Jersey,Private,52900,52900,52900,2259.0,Small
+Saint Xavier University,Illinois,Private,45220,45220,49400,2886.0,Small
+Salisbury University,Maryland,Public,21774,31476,50400,7487.0,Medium
+Salve Regina University,Rhode Island,Private,55050,55050,53000,2120.0,Small
+Samford University,Alabama,Private,42200,42200,48400,3561.0,Small
+San Jose State University,California,Public,24238,33742,63000,24416.0,Large
+Santa Clara University,California,Private,66621,66621,69900,5753.0,Medium
+Savannah College of Art and Design,Georgia,Private,51180,51180,46800,11924.0,Medium
+Seattle Pacific University,Washington,Private,54735,54735,53600,2766.0,Small
+Seattle University,Washington,Private,56898,56898,60600,4708.0,Small
+Seton Hall University,New Jersey,Private,58270,58270,57100,6037.0,Medium
+Shenandoah University,Virginia,Private,42900,42900,48700,2060.0,Small
+Shepherd University,West Virginia,Public,18048,28548,47100,2500.0,Small
+Shorter University,Georgia,Private,31770,31770,45600,1162.0,Small
+Simpson College,Iowa,Private,47524,47524,49900,1223.0,Small
+Smith College,Massachusetts,Private,69924,69924,52700,2630.0,Small
+South Carolina State University,South Carolina,Public,20950,31640,44500,2035.0,Small
+South Dakota School of Mines and Technology,South Dakota,Public,18219,22461,66500,1813.0,Small
+South Dakota State University,South Dakota,Public,16660,20024,50500,8226.0,Medium
+Southeast Missouri State University,Missouri,Public,16353,22090,43700,7600.0,Medium
+Southeastern Louisiana University,Louisiana,Public,16585,29063,46700,10069.0,Medium
+Southeastern Oklahoma State University,Oklahoma,Public,13720,22360,45000,2673.0,Small
+Southern Adventist University,Tennessee,Private,28890,28890,47500,2208.0,Small
+Southern Arkansas University Main Campus,Arkansas,Public,14916,19026,42800,3186.0,Small
+Southern Connecticut State University,Connecticut,Public,23735,34975,48500,7206.0,Medium
+Southern Illinois University-Carbondale,Illinois,Public,25326,25326,49700,7721.0,Medium
+Southern Illinois University-Edwardsville,Illinois,Public,23253,36938,51400,9350.0,Medium
+Southern Methodist University,Texas,Private,71338,71338,59700,6780.0,Medium
+Southern Nazarene University,Oklahoma,Private,33684,33684,46100,1148.0,Small
+Southern New Hampshire University,New Hampshire,Private,44256,44256,47400,37626.0,Large
+Southern Oregon University,Oregon,Public,22853,38783,46000,3737.0,Small
+Southern University at New Orleans,Louisiana,Public,18411,20200,40100,1372.0,Small
+Southern Utah University,Utah,Public,13859,27675,46400,7806.0,Medium
+Southern Wesleyan University,South Carolina,Private,34506,34506,42900,839.0,Small
+Southwestern Oklahoma State University,Oklahoma,Public,12865,19765,47900,3635.0,Small
+Southwestern University,Texas,Private,54000,54000,51800,1539.0,Small
+Spalding University,Kentucky,Private,32100,32100,44800,764.0,Small
+Spelman College,Georgia,Private,43179,43179,50200,2132.0,Small
+Spring Hill College,Alabama,Private,52926,52926,46600,1165.0,Small
+Saint Ambrose University,Iowa,Private,41364,41364,46900,2183.0,Small
+St. John's College,Illinois,Private,23695,23695,55900,497.0,Small
+St. John's College,Illinois,Private,23695,23695,55900,347.0,Small
+St. John's College,Maryland,Private,65820,65820,55900,497.0,Small
+St. John's College,Maryland,Private,65820,65820,55900,347.0,Small
+St. John's College,New Mexico,Private,66266,66266,55900,497.0,Small
+St. John's College,New Mexico,Private,66266,66266,55900,347.0,Small
+St. Mary's University,Texas,Private,40920,40920,52900,2215.0,Small
+Saint Mary's University of Minnesota,Minnesota,Private,44220,44220,53000,1145.0,Small
+Saint Norbert College,Wisconsin,Private,48083,48083,49300,1995.0,Small
+Stanford University,California,Private,67117,67117,79000,8464.0,Medium
+Stephens College,Missouri,Private,41582,41582,42800,471.0,Small
+Sterling College,Vermont,Private,48700,48700,42700,580.0,Small
+Sterling College,Vermont,Private,48700,48700,42700,136.0,Small
+Sterling College,Kansas,Private,34280,34280,42700,580.0,Small
+Sterling College,Kansas,Private,34280,34280,42700,136.0,Small
+Stetson University,Florida,Private,59082,59082,47000,3328.0,Small
+Stevens Institute of Technology,New Jersey,Private,67446,67446,75100,3675.0,Small
+Stevenson University,Maryland,Private,49312,49312,50400,2825.0,Small
+Stockton University,New Jersey,Public,26021,33148,47400,8944.0,Medium
+Stonehill College,Massachusetts,Private,58746,58746,55900,2490.0,Small
+SUNY Maritime College,New York,Public,20805,30585,74900,1540.0,Small
+Swarthmore College,Pennsylvania,Private,68062,68062,67500,1685.0,Small
+Tabor College,Kansas,Private,38095,38095,43300,537.0,Small
+Taylor University,Indiana,Private,43728,43728,48700,1826.0,Small
+Tennessee State University,Tennessee,Public,15814,29170,47200,5017.0,Medium
+Tennessee Technological University,Tennessee,Public,18839,35495,53100,8472.0,Medium
+Texas Christian University,Texas,Private,59754,59754,56000,9378.0,Medium
+Texas Tech University,Texas,Public,20575,33025,56800,29094.0,Large
+Texas Tech University Health Sciences Center,Texas,Public,7911,20361,61300,1400.0,Small
+The College of New Jersey,New Jersey,Public,30168,41883,58200,6979.0,Medium
+The King's University,Texas,Private,15000,15000,63800,222.0,Small
+Thomas College,Maine,Private,38150,38150,46100,789.0,Small
+Thomas Edison State University,New Jersey,Public,7519,9967,52500,92.0,Small
+Thomas More College of Liberal Arts,New Hampshire,Private,31300,31300,48900,89.0,Small
+Tougaloo College,Mississippi,Private,17433,17433,36900,722.0,Small
+Towson University,Maryland,Public,22974,36242,51200,18239.0,Large
+Transylvania University,Kentucky,Private,49210,49210,47900,960.0,Small
+Trevecca Nazarene University,Tennessee,Private,33998,33998,45300,1941.0,Small
+Trine University,Indiana,Private,42985,42985,55100,2160.0,Small
+Trinity College,Connecticut,Private,71660,71660,60100,2261.0,Small
+Trinity University,Texas,Private,56440,56440,54900,2527.0,Small
+Troy University,Alabama,Public,20645,31060,44500,9048.0,Medium
+Truman State University,Missouri,Public,16509,23361,47900,4371.0,Small
+Tufts University,Massachusetts,Private,70942,70942,65200,5861.0,Medium
+Tulane University of Louisiana,Louisiana,Private,70010,70010,56800,8332.0,Medium
+Tuskegee University,Alabama,Private,31820,31820,54500,2058.0,Small
+Union University,Tennessee,Private,43090,43090,46400,1854.0,Small
+University of Akron Main Campus,Ohio,Public,23663,29950,50700,12105.0,Medium
+University of Alabama,Alabama,Public,20882,39332,52300,30125.0,Large
+University of Alabama at Birmingham,Alabama,Public,17110,31030,48600,10962.0,Medium
+University of Alabama in Huntsville,Alabama,Public,20808,32456,57500,7041.0,Medium
+University of Alaska Anchorage,Alaska,Public,19888,36058,56000,6053.0,Medium
+University of Alaska Fairbanks,Alaska,Public,17017,33187,59100,2815.0,Small
+University of Arizona,Arizona,Public,25037,48936,56100,30201.0,Large
+University of Arkansas,Arkansas,Public,20150,36188,52500,21123.0,Large
+University of Arkansas-Fort Smith,Arkansas,Public,15544,24385,40700,4472.0,Small
+University of Arkansas at Little Rock,Arkansas,Public,17896,30136,45600,4272.0,Small
+University of Arkansas at Monticello,Arkansas,Public,14520,20370,43500,1956.0,Small
+University of Arkansas at Pine Bluff,Arkansas,Public,15723,21975,40500,2305.0,Small
+University of Arkansas for Medical Sciences,Arkansas,Public,8197,15973,51700,548.0,Small
+University of Baltimore,Maryland,Public,8958,21076,51000,1319.0,Small
+University of Bridgeport,Connecticut,Private,46710,46710,49900,2226.0,Small
+University of California-Berkeley,California,Public,30344,59336,70700,30789.0,Large
+University of California-Davis,California,Public,30674,59669,61500,31072.0,Large
+University of California-Irvine,California,Public,30877,59869,59600,30586.0,Large
+University of California-Los Angeles,California,Public,29590,58582,62000,32005.0,Large
+University of California-San Diego,California,Public,26561,55553,63400,30592.0,Large
+University of California-Santa Barbara,California,Public,29697,58689,59700,23700.0,Large
+University of Central Arkansas,Arkansas,Public,15605,22128,44900,8231.0,Medium
+University of Central Florida,Florida,Public,15985,32084,49700,45664.0,Large
+University of Central Missouri,Missouri,Public,16439,23208,46900,7255.0,Medium
+University of Central Oklahoma,Oklahoma,Public,15458,26346,45300,9746.0,Medium
+University of Charleston,West Virginia,Private,40080,40080,44600,1256.0,Small
+University of Chicago,Illinois,Private,74580,74580,64000,7112.0,Medium
+University of Cincinnati-Main Campus,Ohio,Public,22118,37452,53600,23562.0,Large
+University of Colorado Boulder,Colorado,Public,26950,51704,57800,26702.0,Large
+University of Colorado Colorado Springs,Colorado,Public,20963,35393,52200,8935.0,Medium
+University of Connecticut,Connecticut,Public,28604,50972,59100,18708.0,Large
+University of Dallas,Texas,Private,53052,53052,53000,1464.0,Small
+University of Dayton,Ohio,Private,56480,56480,57400,8133.0,Medium
+University of Delaware,Delaware,Public,26542,47172,58600,19087.0,Large
+University of Denver,Colorado,Private,63561,63561,55700,5657.0,Medium
+University of Detroit Mercy,Michigan,Private,37496,37496,51800,2429.0,Small
+University of Dubuque,Iowa,Private,44040,44040,44200,1626.0,Small
+University of Evansville,Indiana,Private,48876,48876,50300,1899.0,Small
+University of Florida,Florida,Public,16501,38778,55800,33329.0,Large
+University of Georgia,Georgia,Public,21868,40442,54400,29707.0,Large
+University of Hartford,Connecticut,Private,53170,53170,55200,4353.0,Small
+University of Hawaii at Hilo,Hawaii,Public,19126,32086,44000,2391.0,Small
+University of Hawaii at Manoa,Hawaii,Public,25659,47691,51600,11381.0,Medium
+University of Hawaii-West Oahu,Hawaii,Public,7512,20472,41300,1932.0,Small
+University of Holy Cross,Louisiana,Private,17300,17300,48400,389.0,Small
+University of Houston,Texas,Public,22776,38226,56000,29747.0,Large
+University of Houston-Clear Lake,Texas,Public,8500,24731,50700,3869.0,Small
+University of Idaho,Idaho,Public,16744,34380,52300,6848.0,Medium
+University of Indianapolis,Indiana,Private,39976,39976,47300,4160.0,Small
+University of Iowa,Iowa,Public,20439,42405,54100,21771.0,Large
+University of Jamestown,North Dakota,Private,29546,29546,47600,907.0,Small
+University of Kansas,Kansas,Public,21498,37708,53000,17796.0,Large
+University of Kentucky,Kentucky,Public,25227,42081,51700,21051.0,Large
+University of Louisiana at Lafayette,Louisiana,Public,19132,32860,48200,12593.0,Medium
+University of Louisiana at Monroe,Louisiana,Public,16584,28684,48500,4961.0,Small
+University of Louisville,Kentucky,Public,20882,36504,49500,9416.0,Medium
+University of Maine,Maine,Public,21588,41388,52000,8375.0,Medium
+University of Maine at Augusta,Maine,Public,7988,17918,41600,1617.0,Small
+University of Maine at Farmington,Maine,Public,19392,29504,41100,1581.0,Small
+University of Maine at Fort Kent,Maine,Public,16335,20535,43500,626.0,Small
+University of Maine at Presque Isle,Maine,Public,16441,20641,39000,741.0,Small
+University of Mary,North Dakota,Private,25610,25610,46400,1836.0,Small
+University of Mary Washington,Virginia,Public,23306,38552,54200,3838.0,Small
+University of Maryland-Baltimore County,Maryland,Public,23474,38568,58100,9932.0,Medium
+University of Maryland-College Park,Maryland,Public,23024,47645,61300,30055.0,Large
+University of Maryland Eastern Shore,Maryland,Public,18166,28372,48300,2197.0,Small
+University of Massachusetts-Amherst,Massachusetts,Public,29274,47957,57400,23478.0,Large
+University of Massachusetts-Lowell,Massachusetts,Public,27928,45575,58800,11428.0,Medium
+University of Memphis,Tennessee,Public,19676,31388,47200,12915.0,Medium
+University of Miami,Florida,Private,64334,64334,56200,11212.0,Medium
+University of Michigan-Ann Arbor,Michigan,Public,26796,60884,63500,30851.0,Large
+University of Michigan-Dearborn,Michigan,Public,12930,25158,55700,5338.0,Medium
+University of Minnesota-Crookston,Minnesota,Public,19579,19579,49200,1234.0,Small
+University of Minnesota-Duluth,Minnesota,Public,21127,26245,53200,8493.0,Medium
+University of Minnesota-Morris,Minnesota,Public,21656,23684,46100,1354.0,Small
+University of Minnesota-Twin Cities,Minnesota,Public,25005,40683,57200,30066.0,Large
+University of Mississippi,Mississippi,Public,19356,35310,48500,16532.0,Large
+University of Missouri-Columbia,Missouri,Public,22841,39811,52300,21334.0,Large
+University of Missouri-Kansas City,Missouri,Public,20218,35344,50800,6981.0,Medium
+University of Missouri-St Louis,Missouri,Public,19941,37350,48700,5817.0,Medium
+University of Mobile,Alabama,Private,32420,32420,40600,1330.0,Small
+The University of Montana,Montana,Public,16788,34503,46500,5685.0,Medium
+The University of Montana-Western,Montana,Public,13667,25129,35400,1212.0,Small
+University of Montevallo,Alabama,Public,22090,35110,38900,2078.0,Small
+University of Mount Union,Ohio,Private,41460,41460,48300,2030.0,Small
+University of Nebraska at Kearney,Nebraska,Public,17391,24381,44300,4055.0,Small
+University of Nebraska-Lincoln,Nebraska,Public,20584,36379,51500,19561.0,Large
+University of Nebraska at Omaha,Nebraska,Public,18367,32639,49400,10646.0,Medium
+University of Nebraska Medical Center,Nebraska,Public,11558,28898,53400,842.0,Small
+University of Nevada-Las Vegas,Nevada,Public,18489,32961,50400,20658.0,Large
+University of Nevada-Reno,Nevada,Public,18793,33265,52700,15626.0,Large
+University of New England,Maine,Private,51610,51610,50100,2488.0,Small
+University of New Hampshire-Main Campus,New Hampshire,Public,30079,45459,54300,12299.0,Medium
+University of New Hampshire at Manchester,New Hampshire,Public,15265,30635,51900,868.0,Small
+University of New Haven,Connecticut,Private,55170,55170,52100,4756.0,Small
+University of New Mexico-Main Campus,New Mexico,Public,15309,36709,48400,13369.0,Medium
+University of New Orleans,Louisiana,Public,19629,24465,49900,5450.0,Medium
+University of North Alabama,Alabama,Public,19570,27880,43000,5369.0,Medium
+University of North Carolina at Chapel Hill,North Carolina,Public,20177,46360,55000,18765.0,Large
+University of North Carolina at Charlotte,North Carolina,Public,18144,31578,52500,22055.0,Large
+University of North Carolina Wilmington,North Carolina,Public,17686,31751,46400,13314.0,Medium
+University of North Carolina School of the Arts,North Carolina,Public,18379,34522,46400,904.0,Small
+University of North Dakota,North Dakota,Public,17669,29733,53800,7938.0,Medium
+University of North Florida,Florida,Public,16370,30088,48800,11707.0,Medium
+University of North Georgia,Georgia,Public,15212,29024,47300,14065.0,Medium
+University of Northern Colorado,Colorado,Public,20990,32678,47700,8094.0,Medium
+University of Northern Iowa,Iowa,Public,17886,28428,47100,8596.0,Medium
+University of Notre Dame,Indiana,Private,68801,68801,67000,8829.0,Medium
+University of Oregon,Oregon,Public,24861,48441,51800,18326.0,Large
+University of Pennsylvania,Pennsylvania,Private,71200,71200,72800,10728.0,Medium
+University of Pikeville,Kentucky,Private,28750,28750,39000,1206.0,Small
+University of Pittsburgh-Pittsburgh Campus,Pennsylvania,Public,30130,43102,55900,18892.0,Large
+University of Portland,Oregon,Private,59354,59354,58500,3830.0,Small
+University of Puget Sound,Washington,Private,62316,62316,54200,2307.0,Small
+University of Rhode Island,Rhode Island,Public,27088,43812,54500,13180.0,Medium
+University of Richmond,Virginia,Private,64860,64860,59800,3352.0,Small
+University of Rochester,New York,Private,69864,69864,61100,6604.0,Medium
+University of Saint Francis-Fort Wayne,Indiana,Private,40455,40455,45700,1584.0,Small
+University of Saint Joseph,Connecticut,Private,50601,50601,49900,854.0,Small
+University of San Diego,California,Private,62338,62338,58900,5980.0,Medium
+University of San Francisco,California,Private,62896,62896,60600,6570.0,Medium
+University of Science and Arts of Oklahoma,Oklahoma,Public,13565,23915,37300,792.0,Small
+University of Scranton,Pennsylvania,Private,59714,59714,56400,3606.0,Small
+University of Sioux Falls,South Dakota,Private,25630,25630,44400,1297.0,Small
+University of South Alabama,Alabama,Public,17490,27360,47700,8497.0,Medium
+University of South Carolina-Columbia,South Carolina,Public,12616,33298,50300,27046.0,Large
+University of South Carolina-Upstate,South Carolina,Public,21243,32745,46000,4972.0,Small
+University of South Dakota,South Dakota,Public,17277,20641,47500,5090.0,Medium
+University of Southern California,California,Private,71620,71620,64500,20475.0,Large
+University of Southern Maine,Maine,Public,18970,32230,46900,4689.0,Small
+University of Southern Mississippi,Mississippi,Public,18591,20591,45100,10367.0,Medium
+University of Saint Mary,Kansas,Private,36950,36950,49500,742.0,Small
+The University of Tampa,Florida,Private,40018,40018,49200,9252.0,Medium
+The University of Tennessee-Chattanooga,Tennessee,Public,17714,33832,46000,9534.0,Medium
+The University of Tennessee-Knoxville,Tennessee,Public,24246,42436,51200,22862.0,Large
+The University of Tennessee-Martin,Tennessee,Public,15676,21716,44400,5005.0,Medium
+The University of Texas at Arlington,Texas,Public,20552,35436,55400,22205.0,Large
+The University of Texas at Austin,Texas,Public,21410,48284,60700,38832.0,Large
+The University of Texas at Dallas,Texas,Public,24566,48408,57100,18716.0,Large
+The University of Texas Health Science Center at Houston,Texas,Public,6380,27710,65400,1078.0,Small
+University of the Cumberlands,Kentucky,Private,32000,32000,39800,3433.0,Small
+University of the Ozarks,Arkansas,Private,31630,31630,42300,848.0,Small
+University of the Sciences,Pennsylvania,Private,40938,40938,60700,1319.0,Small
+University of Toledo,Ohio,Public,21229,30567,51800,13299.0,Medium
+University of Tulsa,Oklahoma,Private,52625,52625,58700,3256.0,Small
+University of Utah,Utah,Public,19484,39477,54800,19878.0,Large
+University of Vermont,Vermont,Public,30738,54978,53200,10949.0,Medium
+University of Virginia-Main Campus,Virginia,Public,29154,60055,64500,17560.0,Large
+University of Washington-Seattle Campus,Washington,Public,24315,49696,61900,31133.0,Large
+University of Washington-Bothell Campus,Washington,Public,23015,48396,60200,5585.0,Medium
+University of Washington-Tacoma Campus,Washington,Public,22389,47770,56000,4766.0,Small
+University of West Alabama,Alabama,Public,18156,26606,42700,2083.0,Small
+University of West Georgia,Georgia,Public,18210,31692,46700,8668.0,Medium
+University of Wisconsin-Eau Claire,Wisconsin,Public,16633,24909,52100,10124.0,Medium
+University of Wisconsin-La Crosse,Wisconsin,Public,15437,24255,49600,9434.0,Medium
+University of Wisconsin-Madison,Wisconsin,Public,21669,47919,57300,30791.0,Large
+University of Wisconsin-Milwaukee,Wisconsin,Public,21812,33092,50600,18485.0,Large
+University of Wisconsin-Oshkosh,Wisconsin,Public,16268,23841,47700,8953.0,Medium
+University of Wisconsin-Parkside,Wisconsin,Public,15555,23544,46000,3356.0,Small
+University of Wisconsin-Platteville,Wisconsin,Public,15151,23001,56800,6689.0,Medium
+University of Wisconsin-River Falls,Wisconsin,Public,14375,21948,47100,5211.0,Medium
+University of Wisconsin-Stout,Wisconsin,Public,16381,24347,50400,6244.0,Medium
+University of Wisconsin-Whitewater,Wisconsin,Public,14478,23051,48900,10010.0,Medium
+University of Wyoming,Wyoming,Public,15720,27810,52400,8676.0,Medium
+Upper Iowa University,Iowa,Private,38904,38904,44200,1827.0,Small
+Ursinus College,Pennsylvania,Private,64800,64800,54400,1473.0,Small
+Utah State University,Utah,Public,13824,27905,52400,18787.0,Large
+Utah Valley University,Utah,Public,5726,16296,51100,19832.0,Large
+Valdosta State University,Georgia,Public,15586,29068,43400,7323.0,Medium
+Valley City State University,North Dakota,Public,14072,23612,39900,980.0,Small
+Valparaiso University,Indiana,Private,52120,52120,53300,2990.0,Small
+Vanderbilt University,Tennessee,Private,66050,66050,65400,6894.0,Medium
+Villanova University,Pennsylvania,Private,67328,67328,65100,6893.0,Medium
+Virginia Commonwealth University,Virginia,Public,24918,45566,49900,20525.0,Large
+Virginia Military Institute,Virginia,Public,28290,55134,65900,1740.0,Small
+Virginia Polytechnic Institute and State University,Virginia,Public,22554,40238,62700,29197.0,Large
+Virginia State University,Virginia,Public,20264,30784,44900,3659.0,Small
+Viterbo University,Wisconsin,Private,37030,37030,46800,1535.0,Small
+Wabash College,Indiana,Private,53500,53500,62200,871.0,Small
+Wake Forest University,North Carolina,Private,69354,69354,60700,5291.0,Medium
+Walla Walla University,Washington,Private,32310,32310,53700,1412.0,Small
+Wartburg College,Iowa,Private,51276,51276,49300,1490.0,Small
+Washburn University,Kansas,Public,17107,28177,47000,3803.0,Small
+Washington Adventist University,Maryland,Private,33270,33270,55600,791.0,Small
+Washington and Lee University,Virginia,Private,66380,66380,65900,1850.0,Small
+Washington College,Maryland,Private,59392,59392,52800,1290.0,Small
+Washington State University,Washington,Public,22979,37763,55900,24251.0,Large
+Washington University in St Louis,Missouri,Private,69839,69839,64800,7228.0,Medium
+Wayne State College,Nebraska,Public,14657,19967,40600,2741.0,Small
+Wayne State University,Michigan,Public,23774,38668,50800,13734.0,Medium
+Webb Institute,New York,Private,65225,65225,80800,103.0,Small
+Weber State University,Utah,Public,12110,22864,53900,13224.0,Medium
+Webster University,Missouri,Private,38950,38950,46500,2266.0,Small
+Wellesley College,Massachusetts,Private,70200,70200,58900,2455.0,Small
+Wentworth Institute of Technology,Massachusetts,Private,48140,48140,62700,4606.0,Small
+Wesley College,Delaware,Private,38123,38123,45400,1004.0,Small
+Wesleyan University,Connecticut,Private,69974,69974,61600,3166.0,Small
+West Liberty University,West Virginia,Public,17136,25076,42500,1871.0,Small
+West Virginia State University,West Virginia,Public,20059,27964,41800,2025.0,Small
+West Virginia University,West Virginia,Public,19774,35868,54400,20504.0,Large
+West Virginia University at Parkersburg,West Virginia,Public,6330,10920,36700,1186.0,Small
+West Virginia University Institute of Technology,West Virginia,Public,18854,30038,57100,1244.0,Small
+West Virginia Wesleyan College,West Virginia,Private,40496,40496,47000,1130.0,Small
+Western Carolina University,North Carolina,Public,13902,17902,44700,9341.0,Medium
+Western Connecticut State University,Connecticut,Public,23891,35131,51700,4322.0,Small
+Western Governors University,Utah,Private,6670,6670,54500,134428.0,Large
+Western Kentucky University,Kentucky,Public,18945,34839,45500,12409.0,Medium
+Western Michigan University,Michigan,Public,22626,25516,50900,15006.0,Large
+Western New England University,Massachusetts,Private,50394,50394,56400,2648.0,Small
+Western New Mexico University,New Mexico,Public,15960,24367,41700,1296.0,Small
+Western Oregon University,Oregon,Public,19955,36830,44500,3839.0,Small
+Western Washington University,Washington,Public,19598,35010,55000,14657.0,Medium
+Wheaton College (Massachusetts),Massachusetts,Private,66050,66050,52600,1795.0,Small
+Whitman College,Washington,Private,64938,64938,54600,1601.0,Small
+Whitworth University,Washington,Private,55136,55136,49900,2396.0,Small
+Wichita State University,Kansas,Public,19523,28704,48700,9788.0,Medium
+Widener University,Pennsylvania,Private,60394,60394,55700,2794.0,Small
+Willamette University,Oregon,Private,62514,62514,52200,2100.0,Small
+William Carey University,Mississippi,Private,19410,19410,41100,2291.0,Small
+William Jewell College,Missouri,Private,44330,44330,51400,763.0,Small
+William Paterson University of New Jersey,New Jersey,Public,24505,32705,50500,6108.0,Medium
+William Penn University,Iowa,Private,32552,32552,43900,1166.0,Small
+Williams College,Massachusetts,Private,69950,69950,67500,2193.0,Small
+Wilmington University,Delaware,Private,11210,11210,45100,3195.0,Small
+Winona State University,Minnesota,Public,18435,24358,49700,6310.0,Medium
+Winthrop University,South Carolina,Public,24902,39158,44300,4461.0,Small
+Wisconsin Lutheran College,Wisconsin,Private,39915,39915,46200,936.0,Small
+Wittenberg University,Ohio,Private,49856,49856,52400,1535.0,Small
+Wofford College,South Carolina,Private,56530,56530,51300,1739.0,Small
+Worcester Polytechnic Institute,Massachusetts,Private,65304,65304,73600,4767.0,Small
+Xavier University,Ohio,Private,51310,51310,51800,5079.0,Medium
+Xavier University of Louisiana,Louisiana,Private,33535,33535,46700,2470.0,Small
+Yale University,Connecticut,Private,69430,69430,70300,7195.0,Medium
+Yeshiva University,New York,Private,55750,55750,63500,2797.0,Small

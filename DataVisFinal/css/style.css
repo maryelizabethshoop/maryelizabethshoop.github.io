@@ -1,0 +1,210 @@
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+  
+  .bar.active {
+    stroke: black;
+    stroke-width: 2px;
+  }
+  
+  .controls { 
+    display: flex; 
+    flex-wrap: wrap; 
+    gap: 16px; 
+    margin-top: 12px;
+  }
+
+  .controls label { 
+    font-size: 20px; 
+
+  }
+
+  body {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 17px;
+    padding: 30px;
+    background: #f7f7f7;
+  }
+  
+  .container {
+    display: flex;
+  }
+  
+  .margin-right {
+    margin-right: 30px;
+  }
+  
+  h1 {
+    margin-top: 0;
+    font-weight: 800;
+  }
+
+  h2 { 
+    font-weight: 100;
+    color: #888;
+  }
+  
+  .source {
+    margin-top: 30px;
+    font-size: 10px;
+    color: #888;
+  }
+  .source a {
+    color: #888;
+  }
+
+  .school-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 12px 16px;
+    margin: 10px;
+    width: 250px;
+    background: #fefffeae;
+    /* background-color: #f9f9f9; */
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+    font-family: 'Noto Sans JP', sans-serif;
+  }
+  
+  #school-info-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px; /* Adds space between cards */
+  }
+  
+  /* Marks */
+  .point:hover {
+    stroke: #333;
+  }
+  .bar {
+    shape-rendering: crispEdges;
+  }
+  .bar:hover {
+    stroke: #777;
+  }
+  .bar.active {
+    stroke: #333;
+  }
+  
+  
+  
+  /* Axes */
+  .axis.path,
+  .axis line {
+    fill: none;
+    stroke: #ddd;
+    shape-rendering: crispEdges;
+  }
+  .axis text {
+    font-size: 13px;
+    fill: #6b6b6b;
+  }
+  .axis-title {
+    font-size: 13px;
+    fill: #888;
+  }
+  .y-axis .tick:first-child line {
+    stroke: #b1b1b1;
+  }
+  .y-axis .tick:first-child text {
+    display: none;
+  }
+  .x-axis .tick:first-child line {
+    display: none;
+  }
+  
+  
+  /* Tooltip */
+  #tooltip {
+    position: absolute;
+    display: none;
+    background: #fefffeae;
+    box-shadow: 3px 3px 3px 0px rgb(92 92 92 / 0.5);
+    border: 1px solid #ddd;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 10px;
+    min-width: 160px;
+    color: #333;
+  }
+  .tooltip-title {
+    color: #000;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  #tooltip ul {
+    margin: 5px 0 0 0;
+    padding-left: 20px;
+  }
+
+  #legend-container {
+    border: 1.5px solid #ccc;
+    padding: 5px 8px;
+    background: whitesmoke;
+    font-family: sans-serif;
+    font-size: 17px;
+    max-width: 160px;
+    max-height: 300px;
+  }
+
+  .axis-title { 
+    font-size: 20px;
+    padding: 5px 8px;
+  }
+
+  h4{ 
+    font-size: 17px; 
+    font-weight: 100; 
+  }
+  
+  /* Vis boxes */
+  #barchart,
+  #scatterplot{ 
+    background: #fefffeae;
+    border: 1.5px solid #ccc;
+    padding: 10px 16px;
+  }
+
+  #instructions {
+    background-color: #f9f9f9;
+    border: 3px solid #ddd;
+    padding: 0.7em 0.7em;
+    margin-bottom: 2em;
+    border-radius: 8px;
+    font-family: 'Segoe UI', sans-serif;
+    max-width: 1900px;
+    line-height: 1.6;
+  } 
+  
+  #instructions h2 {
+    font-weight: 400;
+    margin: 0.2em;
+    color: #2a4d69;
+  }
+
+  h2{ 
+    color: black;
+    font-size: 25px;
+  }
+  
+  #instructions ul {
+    margin-left: 0.1em;
+  }
+  
+  #instructions li {
+    margin-bottom: 0.5em;
+    font-size: 20px;
+  }
+  
+  #instructions code {
+    background-color: #eee;
+    border-radius: 3px;
+    font-family: monospace;
+  }

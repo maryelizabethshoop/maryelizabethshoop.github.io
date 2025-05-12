@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+    <title>D3 Linked Charts - Basic</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500;700&display=swap" rel="stylesheet">
+</head>
+<body> 
+    <h1>College Tuititon-Salary Explorer</h1>
+    <h2>This interactive tool helps you explore the profitability of attending colleges
+         across the United States by comparing tuition costs and early-career salaries.</h2>
+    <div id="instructions">
+        <h2>How to Use This Tool</h2>
+        <ul>
+        <li>
+            Use the <strong>dropdown menus</strong> to filter by state, institution size, and in-state vs. out-of-state tuition. 
+        </li>
+        <li>Use the <strong>search bar</strong> to search for a specific school.</li>
+        <li>
+            Hover over points in the scatterplot or bars in the scrolling bar chart to view details. 
+            <strong>Click to select</strong> a college and compare it directly to others. Selected schools will appear in a panel to the right.
+        </li>
+        <li>
+            <strong>Scroll down</strong> the page to explore the <strong>animated bar chart</strong>. This scrollable bar chart shows the profitability (Salary-Tuition) for each institution. <strong>Click and drag the gray bar at the bottom of the visualization to scroll across schools.</strong> 
+        </li>
+        <li>
+            Press <strong>Esc</strong> to clear search selections. To reset filters, select "All" from the dropdown.
+        </li>
+    </ul>     
+      </div>
+    
+    <div class="container">
+        <div class="margin-right">
+            <div style="margin-bottom: 6px;">
+                
+                <label for="search-bar">Search College Name:</label>
+                <input
+                  type="text"
+                  id="search-bar"
+                  style="padding: 4px 8px; width: 300px; border-radius: 4px; border: 1px solid #ccc; font-size: 17px;"
+                />
+
+                <div class = "controls">
+                    <label for="state-select">State:</label>
+                    <select id="state-select">
+                        <option value="all">All</option>
+                    </select>
+                    
+                    <label for="tuition-select">Tuition Type:</label>
+                    <select id="tuition-select">
+                        <option value="out_of_state_total">Out-of-State</option>
+                        <option value="in_state_total">In-State</option>
+                    </select>
+
+                    <label for="type-select">School Type:</label>
+                    <select id="type-select">
+                        <option value="all">All</option>
+                        <option value="Small">Small</option>
+                        <option value="Medium">Medium</option>
+                        <option value="Large">Large</option>
+                    </select>
+                </div>
+
+                <h3>Tuition and Salary by University</h3>
+              </div><svg id="scatterplot"></svg></div>
+              <h4 class="sr-only">Scatterplot of hundreds on US colleges plotted based on their tuition(y) and average initial salary(x)</h4>
+              <div id="legend-container" style="margin-left: 20px;"></div>
+              <div id="school-info-container" style="display: flex; flex-wrap: wrap; padding: 10px;"></div>  
+    </div>
+
+    <h3>Salary-Tuition Disparity by University</h3>
+    <div><svg id="barchart"></svg></div>
+    <h4 class="sr-only">Barchart of hundreds on colleges ordered by their difference in tuition vs early career salary. Shows the average return a student gains/loses from attending a school if they pay full price</h4>
+
+    <div id="tooltip"></div> 
+
+    <p><a href="dataset.html" target="_blank">Click here to view the full dataset in HTML table format</a>
+    </p>
+    
+    
+    <!-- Order matters: we first import D3, then we use it in 
+    scatterplot and barchart. We use our Scatterplot and Barchart
+    objects in our main.js, so it should be last. -->
+    <script src="js/d3.v6.min.js"></script>
+    <script src="js/scatterplot.js"></script>
+    <script src="js/barchart.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dataset Table</title>
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+    }
+    th, td {
+      padding: 8px;
+      text-align: center;
+      border: 1px solid #ccc;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+  </style>
+</head>
+<body>
+  <h2>Tuition-Salary Discrepency Dataset</h2>
+  <p>This table displays the data used in the Tuition-Salary Explorer tool.</p>
+  <table id="data-table"></table>
+
+  <script>
+    d3.csv("data/final_data_bins.csv").then(data => {
+      const table = d3.select("#data-table");
+      const columns = Object.keys(data[0]);
+
+      // Header
+      const thead = table.append("thead").append("tr");
+      columns.forEach(col => thead.append("th").text(col));
+
+      // Body
+      const tbody = table.append("tbody");
+      data.forEach(row => {
+        const tr = tbody.append("tr");
+        columns.forEach(col => tr.append("td").text(row[col]));
+      });
+    });
+  </script>
+</body>
+</html>
